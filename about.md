@@ -5,7 +5,7 @@ permalink: about/
 ---
 
 <div class="message">
-  Research blog.
+  Research Blog
 </div>
 
 Hey! My name is Fernanda Ribeiro, I'm an Architecture and Urban Planning undergraduate student at University of Brasilia, Brazil. I did a year exchange program at Louisiana State University, and now I'm a summer researcher at Illionois Institute of Technology.
