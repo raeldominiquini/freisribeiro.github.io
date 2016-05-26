@@ -8,4 +8,4 @@ permalink: about/
   Research blog.
 </div>
 
-Research Blog
+Hey! My name is Fernanda Ribeiro, I'm an undergraduate student at University of Brasilia, Brazil. I did a year exchange program at Louisiana State University, and now I'm a summer researcher at Illionois Institute of Technology.
