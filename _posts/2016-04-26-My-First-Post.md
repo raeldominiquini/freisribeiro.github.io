@@ -3,7 +3,7 @@ layout: post
 title: "First Post"
 quote: "Test"
 image:
-      url: /media/2014-02-27-hello-cosette/cover.jpg
+      url: /media/3.jpg
 video: false
 comments: true
 theme_color: 302F2D
