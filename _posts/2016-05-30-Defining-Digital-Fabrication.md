@@ -9,7 +9,7 @@ comments: true
 theme_color: 302F2D
 ---
 
-#Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
+#Defining Digital Fabrication)"
 
 Digital fabrication is a type of manufacturing process where the machine used is controlled by a computer. The most common forms of digital fabrication are:
 
@@ -21,7 +21,7 @@ There are a huge range of digital fabrication techniques. The important aspect t
 
 Source: https://www.opendesk.cc/about/digital-fabrication
 
-{% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/download.jpg" width="100%" description="ICD/ITKE Research Pavilion 2011 in Stuttgart, Germany" %}
 
 This new version of Thinny comes with mobile support and some bugfixes.
 
@@ -32,3 +32,4 @@ This new version of Thinny comes with mobile support and some bugfixes.
 https://tltl.stanford.edu/sites/default/files/files/documents/publications/2013.Book-B.Digital.pdf
 http://www.wired.co.uk/article/digital-fabrication
 https://academy.autodesk.com/inspiration/architecture-inspired-through-use-digital-fabrication
+http://www.archdaily.com/495089/the-depreciating-value-of-form-in-the-age-of-digital-fabrication
