@@ -9,7 +9,7 @@ comments: true
 theme_color: 302F2D
 ---
 
-#Defining Digital Fabrication)"
+#Defining Digital Fabrication
 
 Digital fabrication is a type of manufacturing process where the machine used is controlled by a computer. The most common forms of digital fabrication are:
 
