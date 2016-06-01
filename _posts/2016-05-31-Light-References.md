@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Fabrication and Light"
-quote: "How digital fabricated elements can control light."
+quote: "How digital fabricated elements can manipulate and create light effects."
 image:
       url: /media/Riddled-table-by-Steven-Holl-05.jpg
 video: false
