@@ -5,7 +5,9 @@ permalink: about/
 ---
 
 <div class="message">
-  Research Blog
+  Digital Fabrication Research Blog
 </div>
 
-Hey! My name is Fernanda Ribeiro, I'm an Architecture and Urban Planning undergraduate student at University of Brasilia, Brazil. I did a year exchange program at Louisiana State University, and now I'm a summer researcher at Illionois Institute of Technology.
+Hey! 
+My name is Fernanda Ribeiro, I'm an Architecture and Urban Planning undergraduate student at University of Brasilia, Brazil. I did a year exchange program at Louisiana State University, and now I'm a summer researcher at Illinois Institute of Technology. 
+This blog is dedicated to show a daily evolution of my research.
