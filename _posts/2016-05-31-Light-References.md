@@ -3,11 +3,12 @@ layout: post
 title: "Digital Fabrication and Light"
 quote: "How digital fabricated elements can manipulate and create light effects."
 image:
-      url: /media/Riddled-table-by-Steven-Holl-05.jpg
+      url: /media/CoverLight.jpg
 video: false
 comments: true
 theme_color: 302F2D
 ---
+
 
 {% include image.html url="/media/horm-riddled-buf-3.jpg" width="100%" description="Riddled table by Steven Holl." %}
 
@@ -15,7 +16,7 @@ theme_color: 302F2D
 
 {% include image.html url="/media/Riddled-table-by-Steven-Holl-05.jpg" width="100%" description="Riddled table by Steven Holl" %}
 
-{% include image.html url="/media/2007913nyu_-0185.jpg" width="100%" description="Steven Holl NYU Department of Philosophy." %}
+{% include image.html url="/media/2007913nyu_-0185.jpg" width="50%" description="Steven Holl NYU Department of Philosophy." %}
 
 {% include image.html url="/media/download.jpg" width="30%" description="Steven Holl NYU Department of Philosophy." %}
 
