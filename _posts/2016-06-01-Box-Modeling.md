@@ -14,4 +14,4 @@ theme_color: 302F2D
 
 {% include image.html url="/media/Capturar3.PNG" width="50%" description="Rhino box modeling." %}
 
-{% include image.html url="/media/Capturar66.PNG" width="50%" description="Rhino box modeling." %}
+{% include image.html url="/media/Capturar66.PNG" width="50%" description="Connection Detail." %}
