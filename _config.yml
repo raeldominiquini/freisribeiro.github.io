@@ -4,9 +4,9 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Fernanda Reis Ribeiro
 tagline:          'blog'
-description:      'My personal blog.'
+description:      'My Research Blog.'
 url:              http://freisribeiro.github.io
 baseurl:          
 commentsystem:    google
@@ -24,15 +24,15 @@ cover:            /assets/images/cover2.jpg
 
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
+    url:          
     desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          
     desc:         Fork me on github
 
   - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
+    url:          
     desc:         Add me on google+
 
   - icon:         feed
