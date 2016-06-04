@@ -10,7 +10,7 @@ theme_color: 302F2D
 ---
 ## Modeling a box using Rhino and Grasshopper
 
-Digitally fabricated objects are created with a variety of CAD software packages, using both 2D vector drawing, and 3D modeling. In order to develop the abilities to produce 3d models, our last research meeting focused on Rhino 3d and Grasshopper tutorials. The class modeled a box of 100mmx100mmx10mmm, which faces are connected by screws and nuts. This 3d modeled box will be further cut on a laser cutter.
+Digitally fabricated objects are created with a variety of CAD software packages, using both 2D vector drawing, and 3D modeling. In order to develop the abilities to produce 3d models, our last research meeting focused on Rhino 3d and Grasshopper tutorials. The class modeled a box of 100mmx100mmx100mmm, which faces are connected by screws and nuts. This 3d modeled box will be further cut on a laser cutter.
 
 
 
