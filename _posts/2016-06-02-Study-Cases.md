@@ -13,7 +13,7 @@ theme_color: 302F2D
 
 ###  Tonkin Liu, Rainbow Gate
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgateplan.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgateplan.jpg" width="100%" description="Rainbow Gate Site Plan." %}
 
 {% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
@@ -47,9 +47,9 @@ theme_color: 302F2D
 
 {% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-2.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-4" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-4.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-5" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-5.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
 
 
