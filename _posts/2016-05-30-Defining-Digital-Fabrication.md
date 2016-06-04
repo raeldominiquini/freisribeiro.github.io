@@ -29,7 +29,7 @@ Source: https://www.opendesk.cc/about/digital-fabrication
 
 ### Study case: ICD/ITKE Research Pavilion 2011
 
-{% include image.html url="/media/download.jpg" width="100%" description="ICD/ITKE Research Pavilion 2011 in Stuttgart, Germany" %}
+{% include image.html url="/media/stuttgart.jpg" width="50%" description="ICD/ITKE Research Pavilion 2011 in Stuttgart, Germany" %}
 
 ## Ideas and References
 
