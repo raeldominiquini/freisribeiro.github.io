@@ -25,14 +25,16 @@ Digitally fabricated objects are created with a variety of CAD software packages
 
 ## Softwares Information
 
-# Rhinoceros 3D
+{% include image.html url="/media/grasshopper.png" width="60%" description="Rhino and Grasshopper." %}
+
+### Rhinoceros 3D
 
 "Rhino can create, edit, analyze, document, render, animate, and translate NURBS curves, surfaces, and solids with no limits on complexity, degree, or size. Rhino also supports polygon meshes and point clouds. Its accuracy and flexibility makes it possible to students to explore and build their ideas without having to spend much time learning “CAD”.
 Also, any geometry created in Rhino can be exported to laser cutters, milling machines or 3D printers, and this is really what makes Rhino different from general 3D modelling tools based in polygons, where you can create great images, but without manufacturing precision."
 
 Source: http://www.visualarq.com/info/what-is-rhino/
 
-# Grasshopper
+### Grasshopper
 
 "Grasshopper is a graphical algorithm editor tightly integrated with Rhino’s 3-D modeling tools. Unlike RhinoScript, Grasshopper requires no knowledge of programming or scripting, but still allows designers to build form generators from the simple to the awe-inspiring."
 
