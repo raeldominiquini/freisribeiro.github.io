@@ -8,7 +8,7 @@ video: false
 comments: true
 theme_color: 302F2D
 ---
-## Light: The natural agent that stimulates sight and makes things visible. 
+### Light: The natural agent that stimulates sight and makes things visible. 
 
 This definition from Oxford dictionary shows the idea of light in practical way. By practical way I mean the use of light on everyday life. The light you use to perform your activities, to read a book, to cook, to draw, to observe the neighborhood… It is the light that is always present, but it acts in a secondary role. My main question is what you can get, when this light, produced by natural or artificial ways, is put in a main role. When this light not only acts as a tool, but as a product, an object that could be manipulated and could inspire. When this “natural agent” is seen as a protagonist it can be definitely used not only as a sight stimulator, but it can also stimulate the human psychological side, it can create experiences and generate ideas.
 
