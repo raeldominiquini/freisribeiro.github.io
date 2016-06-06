@@ -11,7 +11,7 @@ theme_color: 302F2D
 
 ## Study Case: prisms
 
-            *I experienced a space filled with the light of Matisse: Being bathed in the sunlight of the Provence, the stained glass with Matisse's vibrant colors suffused the room with full of colors. Since then, I had been dreaming of designing an architecture where people can feel the light with all senses.* Yoshioka, Tokujin
+*I experienced a space filled with the light of Matisse: Being bathed in the sunlight of the Provence, the stained glass with Matisse's vibrant colors suffused the room with full of colors. Since then, I had been dreaming of designing an architecture where people can feel the light with all senses.* Yoshioka, Tokujin
       
       
       
