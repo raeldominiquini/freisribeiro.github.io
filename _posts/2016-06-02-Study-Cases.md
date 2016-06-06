@@ -16,47 +16,47 @@ After looking on some ways that light can be used as a protagonist on different 
 A prism is defined by a transparent body of glass, with triangular shape, that can separate white light into a spectrum of different colors. The three projects shown below use prisms as a way of creating a connection between users and light. The prisms are placed in specific locations on the digital fabricated form to allow the conversion of natural light into rainbow spots, beams and surfaces.
 
 
-###  Tonkin Liu, Rainbow Gate
+###  1. Tonkin Liu, Rainbow Gate
 
 {% include image.html url="/media/2016-06-02-study-cases/Rainbowgateplan.jpg" width="100%" description="Rainbow Gate Site Plan." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto.JPG" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto.JPG" width="100%" description="Rainbow Gate overview." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto2.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto2.JPG" width="50%" description="Rainbow Gate overview." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgateeffect.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgateeffect.JPG" width="50%" description="Raibow shades created on the ground" %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail1.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail1.JPG" width="50%" description="Pattern detail." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail2.JPG" width="50%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail2.JPG" width="30%" description="Prism detail." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatestudy2.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatestudy2.jpg" width="70%" description="Relationship of light and aperture." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatestudy.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatestudy.jpg" width="70%" description="3d Model study." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/designboom_rainbow_gategallery19.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/designboom_rainbow_gategallery19.jpg" width="150%" description="Surface Concept." %}
 
-### Steven Holl, NYU Philosophy Department
+### 2. Steven Holl, NYU Philosophy Department
 
-{% include image.html url="/media/2016-06-02-study-cases/2007913NYU_0177-WVER.jpg" width="50%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/2007913NYU_0177-WVER.jpg" width="50%" description="Steven Holl, NYU Philosophy Department. Rainbow light on staircase." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/2007913NYU_0114-WVER.jpg" width="50%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/2007913NYU_0114-WVER.jpg" width="50%" description="Steven Holl, NYU Philosophy Department. Rainbow light on staircase." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/2007913NYU_0108-WVER.jpg" width="50%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/2007913NYU_0108-WVER.jpg" width="50%" description="Steven Holl, NYU Philosophy Department. Rainbow light on staircase." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/nyu_conceptwc-WVER.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/nyu_conceptwc-WVER.jpg" width="70%" description="Conceptual Sketch: Vertical connections in light." %}
 
-### Tokujin Yoshioka, Rainbow Church
+### 3. Tokujin Yoshioka, Rainbow Church
 
-{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-1.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-1.jpg" width="70%" description="Tokujin Yoshioka, Rainbow Church" %}
 
-{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-3.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-3.jpg" width="70%" description="Tokujin Yoshioka, Rainbow Church" %}
 
-{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-2.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-2.jpg" width="70%" description="Prism Detail Model." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-4.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-4.jpg" width="70%" description="Prism Detail Model." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-5.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/dzn_Rainbow-Church-by-Tokujin-Yoshioka-5.jpg" width="70%" description="Prism Detail Model." %}
 
 
 
