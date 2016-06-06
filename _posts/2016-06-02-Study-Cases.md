@@ -73,7 +73,7 @@ In May 2010, the Japanese architect Tokujin Yoshioka, exhibited her “Rainbow C
 {% include image.html url="/media/2016-06-02-study-cases/Semtítulo2.jpg" width="70%" description="Museum of Tokyo Exhibition - Prisms detail." %}
 
 
-
+The interesting fact is that the use of prism provoke different reactions and can promote a deeper contact between human being and architecture. In other words, the light diffused by the prism creates a specific and unique image of the building for the user.
 
 
 
