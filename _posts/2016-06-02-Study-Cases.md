@@ -29,6 +29,8 @@ theme_color: 302F2D
 
 {% include image.html url="/media/2016-06-02-study-cases/Rainbowgatestudy.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
+{% include image.html url="/media/2016-06-02-study-cases/designboom_rainbow_gategallery19.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+
 ### Steven Holl, NYU Philosophy Department
 
 {% include image.html url="/media/2016-06-02-study-cases/2007913NYU_0177-WVER.jpg" width="50%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
