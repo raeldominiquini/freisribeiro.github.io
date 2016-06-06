@@ -49,7 +49,7 @@ menu:
   - title:        Portfolio
     url:          /portfolio
 
- - title:        Contact
+  - title:        Contact
     url:          /contact
 
 copyright:
