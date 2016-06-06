@@ -9,7 +9,7 @@ comments: true
 theme_color: 302F2D
 ---
 
-## Study Cases
+## Study Cases: prisms
 
 After looking on some ways that light can be used as a protagonist on different applications, such as fixtures, furniture or architecture, I started to search for other types of interaction, rather than light and digital fabricated patterns. 
 
