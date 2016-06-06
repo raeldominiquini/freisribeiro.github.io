@@ -15,15 +15,15 @@ theme_color: 302F2D
 
 {% include image.html url="/media/2016-06-02-study-cases/Rainbowgateplan.jpg" width="100%" description="Rainbow Gate Site Plan." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto2.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatephoto2.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgateeffect.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgateeffect.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail1.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail1.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail2.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/media/2016-06-02-study-cases/Rainbowgatedetail2.JPG" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
 {% include image.html url="/media/2016-06-02-study-cases/Rainbowgatestudy2.jpg" width="70%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
