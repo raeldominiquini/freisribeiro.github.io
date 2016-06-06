@@ -46,6 +46,10 @@ menu:
   - title:        About
     url:          /about
 
+  - title:        Portfolio
+    url:          /portfolio
+
+
 copyright:
   author:         Camporez
   url:            http://camporez.github.io
