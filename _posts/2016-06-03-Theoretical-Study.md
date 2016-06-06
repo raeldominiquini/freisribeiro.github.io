@@ -23,8 +23,7 @@ theme_color: 302F2D
 
 Available on: https://dspace.mit.edu/handle/1721.1/69770
 
-#### Architectural Caustics — Controlling Light with Geometry
-##### T. Kiser, M. Eigensatz, M. Nguyen, P. Bompas, and M. Pauly
+#### Architectural Caustics — Controlling Light with Geometry, T. Kiser, M. Eigensatz, M. Nguyen, P. Bompas, and M. Pauly
 
 {% include image.html url="/media/Caustics/Causticsdiagram.JPG" width="100%" description="Computing a Reflective Caustic." %}
 
