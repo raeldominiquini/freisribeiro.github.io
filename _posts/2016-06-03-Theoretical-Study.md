@@ -13,13 +13,13 @@ theme_color: 302F2D
 
 {% include image.html url="/media/Caustics/ceiling1.JPG" width="50%" description="Light Study." %}
 
-{% include image.html url="/media/Caustics/ceiling2.JPG" width="20%" description="Work Flow: parametric Model, physical prototype, model tested with light." %}
+{% include image.html url="/media/Caustics/ceiling2.JPG" width="35%" description="Work Flow: parametric Model, physical prototype, model tested with light." %}
 
 {% include image.html url="/media/Caustics/ceiling3.JPG" width="50%" description="Luminous tile." %}
 
 {% include image.html url="/media/Caustics/ceiling4.JPG" width="50%" description="Simulation." %}
 
-{% include image.html url="/media/Caustics/ceiling5.JPG" width="20%" description="Model Fabrication." %}
+{% include image.html url="/media/Caustics/ceiling5.JPG" width="35%" description="Model Fabrication." %}
 
 Available on: https://dspace.mit.edu/handle/1721.1/69770
 
