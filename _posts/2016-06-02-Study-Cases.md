@@ -11,6 +11,11 @@ theme_color: 302F2D
 
 ## Study Cases
 
+After looking on some ways that light can be used as a protagonist on different applications, such as fixtures, furniture or architecture, I started to search for other types of interaction, rather than light and digital fabricated patterns. 
+
+A prism is defined by a transparent body of glass, with triangular shape, that can separate white light into a spectrum of different colors. The three projects shown below use prisms as a way of creating a connection between users and light. The prisms are placed in specific locations on the digital fabricated form to allow the conversion of natural light into rainbow spots, beams and surfaces.
+
+
 ###  Tonkin Liu, Rainbow Gate
 
 {% include image.html url="/media/2016-06-02-study-cases/Rainbowgateplan.jpg" width="100%" description="Rainbow Gate Site Plan." %}
