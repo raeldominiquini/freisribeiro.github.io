@@ -49,4 +49,4 @@ Available on: http://lgg.epfl.ch/publications/2012/caustics/ArchitecturalCaustic
 
 #### 3.Conclusion
 
-{% include image.html url="/media/Caustics/Research Process.jpg" width="150%" description="Articles analysis." %}
+{% include image.html url="/media/Caustics/Research Process.jpg" width="200%" description="Articles analysis." %}
