@@ -32,6 +32,7 @@ Available on: https://dspace.mit.edu/handle/1721.1/69770
 {% include image.html url="/media/Caustics/10.jpg" width="100%" description="Milling process on acrylic." %}
 
 Caustics Videos
+
 <a href="https://www.youtube.com/watch?v=NT7SI3lch0g" target="_blank"><img src="/media/01.jpg" alt="Caustics Video" width="240" height="180" border="10" /></a>
 
 
