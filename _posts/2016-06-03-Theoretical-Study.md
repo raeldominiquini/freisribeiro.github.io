@@ -9,7 +9,11 @@ comments: true
 theme_color: 302F2D
 ---
 
+A lot of work, research and advancements have been done concerning light issues within the past decades. When this theme is narrowed into digital fabrication applications, it is possible to find multiple interesting studies and explorations. I’ve selected two articles that make different connections between light and technology, but at the same time they use a similar process.
+
 #### 1. Parametric tools and digital fabrication for the design of luminous ceilings, Rita Saad
+
+Rita Saad developed in 2004, a thesis that investigates the use of digital computation into architectural lighting. By modeling different forms and shapes in Rhino, Saad built, in a 3d printer, various prototypes, to create a tile that can be applied on the ceiling. Her main purpose is to create new ceilings designs that can substitute the usual flat roof, by improving its luminosity. The author also uses the advantages of the LED lights to achieve a better performance. 
 
 {% include image.html url="/media/Caustics/ceiling1.JPG" width="50%" description="Light Study." %}
 
@@ -24,6 +28,8 @@ theme_color: 302F2D
 Available on: https://dspace.mit.edu/handle/1721.1/69770
 
 #### 2. Architectural Caustics — Controlling Light with Geometry, T. Kiser, M. Eigensatz, M. Nguyen, P. Bompas, and M. Pauly
+
+*"Caustics are captivating light patterns created by materials bundling or diverting light by refraction or reflection. We know caustics as random side effects, appearing, for example, at the bottom of a swimming pool. In this paper we show that it is possible to control caustic patterns to form almost any desired shape by optimizing the geometry of the reflective or refractive surface generating the caustic. We demonstrate how this surprising result offers a new perspective on light control and the use of caustics as an inspiring architectural design element. Several produced prototypes illustrate that physical realizations of such optimized geometry are feasible."* Architectural Caustics — Controlling Light with Geometry, pg 1
 
 {% include image.html url="/media/Caustics/Causticsdiagram.JPG" width="100%" description="Computing a Reflective Caustic." %}
 
@@ -41,6 +47,6 @@ Caustics Videos
 
 Available on: http://lgg.epfl.ch/publications/2012/caustics/ArchitecturalCaustics_AAG.pdf
 
-#### Conclusion
+#### 3.Conclusion
 
-{% include image.html url="/media/Caustics/Research Process.jpg" width="100%" description="Articles analysis." %}
+{% include image.html url="/media/Caustics/Research Process.jpg" width="150%" description="Articles analysis." %}
