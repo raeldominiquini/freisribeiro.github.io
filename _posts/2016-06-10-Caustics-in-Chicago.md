@@ -14,3 +14,7 @@ theme_color: 302F2D
 
 
 <video src="/media/2016-06-10-Caustics-in-Chicago/VídeoEditado.mp4" width="618" height="347" controls preload></video>
+
+{% include image.html url="/media/2016-06-10-Caustics-in-Chicago/The_Lurie_Garden_Gustafson_Guthrie_Nichol_3.jpg" width="100%" description="The Lurie Garden, Chicago, IL. Photo: Gustafson Guthrie Nichol" %}
+
+{% include image.html url="/media/2016-06-10-Caustics-in-Chicago/chicago-riverwalk5.jpg" width="100%" description="Chicago Riverwalk, Source: apparatusmag.com" %}
