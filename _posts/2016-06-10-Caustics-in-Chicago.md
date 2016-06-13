@@ -8,8 +8,9 @@ video: false
 comments: true
 theme_color: 302F2D
 ---
-{% include image.html url="/media/2016-06-10-Caustics-in-Chicago/Photo1.jpg" width="50%" description="Du Sable Harbor, Chicago, IL" %}
+{% include image.html url="/media/2016-06-10-Caustics-in-Chicago/Photo2.jpg" width="100%" description="Du Sable Harbor, Chicago, IL" %}
 
-{% include image.html url="/media/2016-06-10-Caustics-in-Chicago/Photo2.jpg" width="50%" description="Du Sable Harbor, Chicago, IL" %}
+{% include image.html url="/media/2016-06-10-Caustics-in-Chicago/Photo1.jpg" width="100%" description="Du Sable Harbor, Chicago, IL" %}
 
-<video src="VídeoEditado.mp4" width="320" height="200" controls preload></video>
+
+<video src="/media/2016-06-10-Caustics-in-Chicago/VídeoEditado.mp4" width="320" height="200" controls preload></video>
