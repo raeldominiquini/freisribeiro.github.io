@@ -15,6 +15,9 @@ As I became interested in the topic of caustics, I began to look for this effect
 
 Certainly, after observing these effects, it is possible to note what are the main factors that can develop the caustics. It is not just about light and water, as isolated causes, but also includes the light intensity, position, angle, and the water clarity and depth. Thereby, I begin to question what can be achieved using these different conditions? Is digital fabrication a method to find what are caustics possibilities?
 
+
+
+
 {% include image.html url="/media/2016-06-10-Caustics-in-Chicago/Photo2.jpg" width="100%" description="Du Sable Harbor, Chicago, IL" %}
 
 {% include image.html url="/media/2016-06-10-Caustics-in-Chicago/Photo1.jpg" width="100%" description="Du Sable Harbor, Chicago, IL" %}
