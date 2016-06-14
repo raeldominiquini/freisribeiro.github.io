@@ -9,7 +9,7 @@ comments: true
 theme_color: 302F2D
 ---
 
-How create caustics through a non-natural way?
+### How create caustics through a non-natural way?
 
 A group collaboration between MIT and Harvard University developed a glass 3d printer. The new equipment can print glass in different shapes and colors, providing a variety of optical effects. The creators of the project say that the mechanism can be seen as a potential use in architecture and design.
 
